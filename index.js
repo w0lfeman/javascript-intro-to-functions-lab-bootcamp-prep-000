@@ -2,4 +2,6 @@ function shout(String) {
   return String.toUpperCase()
 }
 
-function whisper()
+function whisper(string) {
+  
+}
